@@ -1,7 +1,26 @@
+About Airbnb
+
+Airbnb is an online platform that connects people who want to rent out their homes,
+apartments, or rooms with travelers looking for accommodation.
+
+Basic Information
+Founded: 2008
+Founders: Brian Chesky, Joe Gebbia, and Nathan Blecharczyk
+Headquarters: San Francisco
+Industry: Travel and Hospitality
+Website: Airbnb
+What Airbnb Does
+
+Airbnb allows:
+
+Hosts to list properties such as houses, apartments, villas, and rooms.
+Guests to book short-term or long-term stays.
+Travelers to find unique accommodations worldwide.
+Users to book experiences and activities hosted by local experts.
 
 
 
-                            ####What is Do in this Porject.####
+                            #### What is in this Porject.####
 
 
 
